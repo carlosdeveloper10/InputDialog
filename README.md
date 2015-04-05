@@ -2,7 +2,7 @@
 A simple .dll library to make Input dialog with C#, VB .NET or some .NET language
 
 ## Ca you do it whit this .dll?
-Yuo can make useful window(pop up) to ask and catch any messages from users.
+You can make useful window(pop up) to ask and catch any messages from users.
 this library is similar to java function `OptionPane.showMessageDialog();`
 
 ## How to use it
