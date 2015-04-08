@@ -1,9 +1,9 @@
 # InputDialog
-A simple .dll library to make Input dialog with C#, VB .NET or some .NET language
+A simple .dll library to make Input dialog with C#, VB .NET or some .NET languages
 
-## Ca you do it whit this .dll?
-You can make useful window(pop up) to ask and catch any messages from users.
-this library is similar to java function `OptionPane.showMessageDialog();`
+## What can you do it whit this .dll?
+You can make useful windows(pop ups) to request and catch any messages from users.
+this library is similar to java's class `JOptionPane`
 
 ## How to use it
 The following codes are examples with C# and VB .NET
